@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+    <html>
+        <head> 
+            <title> PRESENTATION ALI ZEMOUCHE</title>
+            <meta charset="UTF-8">
+            <link href="style.css" rel="stylesheet" type="text/css" href="">
+            <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+        </head>
+        <body>
+        	<header>
+                <div class="header-p">
+        		    <p class="nom-prenom"><a href="#"> ALI ZEMOUCHE </a></p>
+                        <div class="trois-3">
+        		           <p class="propos"><a href="#"> A propos </a></p>
+        		           <p class="realiz"><a href="#"> Réalisation </a></p>
+        		           <p class="contact"><a href="#"> Contact</a></p>
+                        </div>
+                </div>
+        	</header>
+        	<nav>
+                
+                    <div class="nav-1">
+                        <div class="titre-1">
+                            <h1>Je suis développeur web<br><span id="demi-titre"> et j’aime apprendre de nouvelles choses</span></h1>
+                        </div>
+                        <div id="parag-1">
+                            <p class="para-1">Celebratae locum perpetuum denique accitur speciem domus sonu nunc denique doctor<br>
+                                ludicrarum bybliothecis sit et et non perflabili oratoris sepulcrorum tibiaeque perflabili<br>
+                                exundant speciem sepulcrorum nunc ritu cum antea non</p>
+                        </div>
+                        <div class="botton">
+                            <p class="contact-2"><a href="#"> Contact</a></p>
+                            <p class="savoir-plus"><a href="#"><span class="savoir">En savoir +</span></a></p>
+                         </div>
+                    </div>  
+                    <div class="nav-2"> 
+                    <div class="sous-nav-2">
+                        <h2> Découvrez mon dernier projet</h2> 
+                        <section>
+                            <div class="para-2">
+                                <p class="sous-para-21">La réalisation d’une page web en<br><span class="htcs"> HTML/CSS</span></p>
+                                <p class="sous-para-22">Celebratae locum perpetuum denique accitur speciem domus sonu nunc denique doctor ludicrarum bybliothecis sit  et   non perflabili oratoris sepulcrorum tibiaeque perflabili exundant speciem sepulcrorum nunc ritu cum antea non.  <br>Quaestione igitur per multiplices dilatata fortunas cum ambigerentur quaedam, non nulla levius actitata ...</p>
+                                <div>
+                                     <p class="savoir-plus"><a href="#"><span class="savoir">En savoir +</span></a></p>
+                                </div>
+                            </div>
+                            <div class="image-1">
+                                <img class="pecture-1" src="images\mockups.png">
+                            </div> 
+                        </section> 
+                    </div>              
+                    </div>
+                    <div id="client">
+                        <div class="sous-client">
+                        <p class="image-client"> <span class="client1"> <img src="images\logo-client-1.png" alt="logo-client-1"> </span> </p>
+                        <p class="image-client"> <img  src="images\logo-client-2.png" alt="logo-client-2"> </p>
+                        <p class="image-client"> <img  src="images\logo-client-3.png" alt="logo-client-3"> </p>
+                        <p class="image-client"> <img  src="images\logo-client-4.png" alt="logo-client-4"> </p>
+                        <p class="image-client"> <img  src="images\logo-client-5.png" alt="logo-client-5"> </p> 
+                    </div>
+                    </div> 
+            </nav>
+            <div id ="footer">
+                <footer>
+                    <p class="foot"> Designed by @alillo Zemouche. Tout droit réservé | <a href="#"> <span class="fin"> Mentions légales </span> </a> | <a href="#"> <span class="fin"> Plan du site </span> </a> </p>
+                </footer>            
+            </div> 
+        </body>
+    </html>
